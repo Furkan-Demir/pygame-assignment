@@ -1,0 +1,1 @@
+{"maxcan": 1000, "hasar": 350, "maxsarjor": 130, "para": 20500, "stage": 3}
